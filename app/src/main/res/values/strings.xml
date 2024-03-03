@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sahaj</string>
+    <string name="date_picker_content_description">Khoi\n</string>
+    <string name="date_picker_placeholder">placeholder\n</string>
+</resources>
